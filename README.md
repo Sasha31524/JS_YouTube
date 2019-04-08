@@ -1,2 +1,2 @@
 # JS_YouTube
-1day
+JS_free_days
